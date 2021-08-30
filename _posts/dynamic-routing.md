@@ -1,19 +1,31 @@
 ---
-title: 'Dynamic Routing and Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+title: "Il mondo Blockchain ti appassiona?"
+excerpt: "Hai familiarità con lo sviluppo web generale, JavaScript, HTML e Git e ti piacerebbe diventare uno sviluppatore Blockchain. Allora questo blog potrebbe interessare anche a te.."
+coverImage: "/assets/blog/dynamic-routing/blockchain-cover.jfif"
+date: "2021-08-30T05:35:07.322Z"
 author:
-  name: JJ Kasper
-  picture: '/assets/blog/authors/jj.jpeg'
+  name: Andrea Casero
+  picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: "/assets/blog/dynamic-routing/blockchain-cover.jfif"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+## Un pò di tutto.. per diventare esperti sviluppatori Blockchain
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Ciao sono Andrea e tra poco inizierò un corso negli Stati Uniti per sviluppatori Blockchain focalizzato su Ethereum.
+Durante i prossimi tre mesi condividerò con voi tutto il materiale e le lezioni messe a disposizione.
+Qui di seguito le aree tematiche che tratterò in questo Blog:
 
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+1. 1. Strumenti utili per iniziar a sviluppare in Blockchain (GitHub, VSCode, Oracle VM.. )
+2. 2. Analisi della tecnologia Blockchain
+3. 3. Primitive crittografiche nella Blockchain
+4. 4. Ethereum
+5. 5. Applicazioni tradizionali vs decentralizzate
+6. 6. Ambienti e framework di sviluppo Blockchain (Metamask, Truffle, Ganache..)
+7. 7. Solidity - Il linguaggio degli smart contract
+8. 8. Come scrivere uno smart contract
+9. 9. Web 3.0 ed integrazione con React
+10. 10. Test e debug diuno smart contract
+11. 11. Vyper - smart contract in python
+12. 12. ENS - Ethereum Name Service
+13. 13. NFT e molto altro
