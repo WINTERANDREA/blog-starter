@@ -1,5 +1,5 @@
 import MailchimpSubscribe from 'react-mailchimp-subscribe';
-import MailchimpForm from './mailchimpForm';
+import MailchimpForm from '../components/mailchimpForm';
 
 const MailchimpNewsletter = () => {
 

@@ -1,11 +1,8 @@
-import Container from './container'
 import Image from 'next/image'
 import { useState } from 'react';
-import ethWallet from '../public/assets/svg/eth-wallet.svg'
 import ethLogo from '../public/assets/svg/ethereum-eth-logo.svg'
-import MailchimpNewsletter from './mailChimpNewsletter'
-import MailchimpForm from './mailchimpForm'
-import Popup from './popup'
+import MailchimpNewsletter from '../components/mailChimpNewsletter'
+import Popup from '../components/popup'
 
 export default function Footer() {
    const [openModal, setOpenModal] = useState(false);
