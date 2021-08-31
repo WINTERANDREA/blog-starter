@@ -8,6 +8,9 @@ module.exports = {
         'accent-7': '#333',
         success: '#0070f3',
         cyan: '#79FFE1',
+        ethereumLightGray: '#ecf0f1',
+        ethereumGold: '#c99d66',
+        ethereumGray: '#3c3c3c'
       },
       spacing: {
         28: '7rem',

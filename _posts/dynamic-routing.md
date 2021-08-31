@@ -13,7 +13,7 @@ ogImage:
 ## Un pò di tutto.. per diventare esperti sviluppatori Blockchain
 
 Ciao sono Andrea e tra poco inizierò un corso negli Stati Uniti per sviluppatori Blockchain focalizzato su Ethereum.
-Durante i prossimi tre mesi condividerò con voi tutto il materiale e le lezioni messe a disposizione.
+Durante i prossimi tre mesi condividerò con voi tutto il materiale e le lezioni messe a disposizione.<br>
 Qui di seguito le aree tematiche che tratterò in questo Blog:
 
 1. 1. Strumenti utili per iniziar a sviluppare in Blockchain (GitHub, VSCode, Oracle VM.. )
@@ -29,3 +29,24 @@ Qui di seguito le aree tematiche che tratterò in questo Blog:
 11. 11. Vyper - smart contract in python
 12. 12. ENS - Ethereum Name Service
 13. 13. NFT e molto altro
+
+![image info](/assets/blog/dynamic-routing/blockchain-cover.jfif)
+
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
+> - Test 123
+> - Follow [testing artifacts](http://2.bp.blogspot.com) (more Unit )
+
+```bash
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+<ol style="list-style-type:upper-roman">
+<li>Coffee</li>
+<li>Tea</li>
+<li>Milk</li>
+</ol>
