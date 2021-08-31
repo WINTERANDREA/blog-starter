@@ -82,7 +82,7 @@ const MailchimpForm = ( { status, message, onValidated }) => {
         {status === "sending" && <div>Email in uscita...</div>}
         {status === "error" || error ? (
           <div
-            dangerouslySetInnerHTML={{ __html: error || getMessage( "Per favore inserisci un indirizzo email valido" ) }}
+            dangerouslySetInnerHTML={{ __html: error || getMessage( message) }}
           />
         ) : null }
         {status === "success" && status !== "error" && !error && (
