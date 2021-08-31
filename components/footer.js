@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import { useState } from 'react';
 import ethLogo from '../public/assets/svg/ethereum-eth-logo.svg'
-import MailchimpNewsletter from '../components/mailChimpNewsletter'
+import MailchimpNewsletter from './mailChimpNewsletter'
 import Popup from '../components/popup'
 
 export default function Footer() {
