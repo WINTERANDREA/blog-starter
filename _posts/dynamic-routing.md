@@ -30,23 +30,3 @@ Qui di seguito le aree tematiche che tratterò in questo Blog:
 12. 12. ENS - Ethereum Name Service
 13. 13. NFT e molto altro
 
-![image info](/assets/blog/dynamic-routing/blockchain-cover.jfif)
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>
-
-> - Test 123
-> - Follow [testing artifacts](http://2.bp.blogspot.com) (more Unit )
-
-```bash
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-<ol style="list-style-type:upper-roman">
-<li>Coffee</li>
-<li>Tea</li>
-<li>Milk</li>
-</ol>
